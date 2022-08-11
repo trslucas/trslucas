@@ -5,8 +5,7 @@
 - 👯 Estou em busca da minha primeira vaga como desenvolvedor Front-End JR ou como estagiário
 - 👨‍🎓 Estudo as stacks em Javascript, 
 - ✅ No momento eu estou me aprofundando em ReactJS 
-- 🟢 Também tenho noções básicas de backend com NodeJS (Express, Adonis)
-- 💻 Linguagem SQL 
+- 💻Também tenho noções básicas de backend com NodeJS (Express, Adonis) e linguagem SQL 
 
 
 <div align="center">
