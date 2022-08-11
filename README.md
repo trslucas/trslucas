@@ -2,8 +2,11 @@
 
 - 🤔 Tenho 28 anos e sou do Rio de Janeiro
 - 💬 Curso Análise e Desenvolvimento de Sistemas, estou no final do 2º semestre e a minha previsão de conclusão do curso é para agosto de 2023
-- 👯 Estou em busca da minha primeira vaga como desenvolvedor JR ou como estagiário
-- 🔭 No momento eu estou me aprofundando nos seguintes frameworks Javascript: ReactJS e NodeJS utilizando de Typescript para melhor organização
+- 👯 Estou em busca da minha primeira vaga como desenvolvedor Front-End JR ou como estagiário
+- 👨‍🎓 Estudo as stacks em Javascript, 
+- ✅ No momento eu estou me aprofundando em ReactJS 
+- 🟢 Também tenho noções básicas de backend com NodeJS (Express, Adonis)
+- 💻 Linguagem SQL 
 
 
 <div align="center">
