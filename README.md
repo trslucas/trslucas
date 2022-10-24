@@ -1,8 +1,8 @@
 ## Olá, me chamo Lucas Trindade e sou estudante de desenvolvimento web
 
-- 🤔 Tenho 28 anos e sou do Rio de Janeiro
+- 🤔 Tenho 29 anos e sou do Rio de Janeiro
 - 💬 Curso Análise e Desenvolvimento de Sistemas, estou no 3º de 4 semestres e a minha previsão de conclusão do curso é para agosto de 2023
-- 👯 Estou em busca da minha primeira vaga como desenvolvedor Front-End JR ou como estagiário
+- 👯 Atuo como estagiário em Desenvolvimento de Software na Thummi Global
 - 👨‍🎓 Estudo as stacks em Javascript, 
 - ✅ No momento eu estou me aprofundando em ReactJS 
 - 💻Também tenho noções básicas de backend com NodeJS (Express, Adonis) e linguagem SQL 
