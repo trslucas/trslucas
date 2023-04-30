@@ -1,11 +1,24 @@
 ## Olá, me chamo Lucas Trindade e sou estudante de desenvolvimento web
 
 - 🤔 Tenho 29 anos e sou do Rio de Janeiro
-- 💬 Curso Análise e Desenvolvimento de Sistemas, estou no 3º de 4 semestres e a minha previsão de conclusão do curso é para agosto de 2023
-- 👯 Atuo como estagiário em Desenvolvimento de Software na Thummi Global
+
+- 💬 Curso Análise e Desenvolvimento de Sistemas, estou no 4º semestre e a minha previsão de conclusão do curso é para dezembro de 2023
+
+- 👯 Atuo como desenvolvedor de software junior na Thummi Global
+
 - 👨‍🎓 Estudo as stacks em Javascript, 
-- ✅ No momento eu estou me aprofundando em ReactJS 
-- 💻Também tenho noções básicas de backend com NodeJS (Express, Adonis) e linguagem SQL 
+
+- ✅ Atualmente trabalho como como Desenvolvedor de Software Júnior na Thummi Global e divido meu tempo entre as tasks e reforçar minhas skills em front-end, onde tenho mais contato, com as tecnologias: 
+-  Typescript 
+-  ReactJS 
+-  NextJS
+
+- 💻 E por conta das tarefas, também tenho tido contato com atividades envolvendo backend, usando as seguintes tecnologias: 
+
+- NodeJS 
+- SQL 
+- Metabase para consultas 
+- AWS para infraestrutura  
 
 
 <div align="center">
