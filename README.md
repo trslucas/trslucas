@@ -2,23 +2,20 @@
 
 - 🤔 Tenho 29 anos e sou do Rio de Janeiro
 
-- 💬 Curso Análise e Desenvolvimento de Sistemas, estou no 4º semestre e a minha previsão de conclusão do curso é para dezembro de 2023
-
 - 👯 Atuo como desenvolvedor de software junior na Thummi Global
 
-- 👨‍🎓 Estudo as stacks em Javascript, 
+- 👨‍🎓 Estudo as stacks em Javascript
 
-- ✅ Atualmente trabalho como como Desenvolvedor de Software Júnior na Thummi Global e divido meu tempo entre as tasks e reforçar minhas skills em front-end, onde tenho mais contato, com as tecnologias: 
+- ✅ Atualmente trabalho como como Desenvolvedor de Software Júnior na Thummi Global e divido meu tempo entre as tasks e reforçar minhas skills tanto em front-end como em back-end, com as tecnologias: 
 -  Typescript 
 -  ReactJS 
 -  NextJS
-
-- 💻 E por conta das tarefas, também tenho tido contato com atividades envolvendo backend, usando as seguintes tecnologias: 
-
-- NodeJS 
-- SQL 
-- Metabase para consultas 
-- AWS para infraestrutura  
+-  React Native
+-  NodeJS 
+-  SQL
+-  Knex
+-  Metabase para consultas 
+-  AWS para infraestrutura  
 
 
 <div align="center">
