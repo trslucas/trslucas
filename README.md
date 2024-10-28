@@ -1,6 +1,6 @@
 ## Olá, me chamo Lucas Trindade e sou estudante de desenvolvimento web
 
-- 🤔 Tenho 29 anos e sou do Rio de Janeiro
+- 🤔 Tenho 31 anos e sou do Rio de Janeiro
 
 - 👯 Atuo como desenvolvedor de software junior na Thummi Global
 
