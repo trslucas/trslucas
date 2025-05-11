@@ -50,7 +50,7 @@ Atualmente, divido meu tempo entre demandas reais de produção e o aprimorament
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Lucas-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Lucas-Maven" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg">
-  <img align="center" alt="Lucas-Gradle" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gradle_logo.svg">
+  <img align="center" alt="Lucas-Gradle" height="30" width="40" src="https://pic.vsixhub.com/a5/9d/vscjava.vscode-gradle-logo.webp">
 </div>
 ---
 
